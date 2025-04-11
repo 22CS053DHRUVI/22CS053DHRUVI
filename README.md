@@ -1,30 +1,63 @@
-
 <!--
 **22CS053DHRUVI/22CS053DHRUVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--  I'm Dhruvi Patel.
--  I'm currently pursuing B.Tech degree in computer science.
 -->
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Dhruvi Patel</b></h1>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F22CS053DHRUVI%2F22CS053DHRUVI&label=VISITORS&countColor=%23263759&labelStyle=upper)
-<ul dir="auto">
+<p align="center">
+🎓 B.Tech Computer Engineering | 🔍 AIML Enthusiast | 🤖 Deep Learning & NLP Explorer
+</p>
 
-<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’ve keen interest in Web-App, AI and many other...</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning java, DSA, C++.</li>
-<li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on any Open Source Project.</li>
-<li> 🔗 How to reach me:  <a href="mailto:dhruvik26804@gmail.com"> dhruvik26804@gmail.com </a></li>
-</ul>
-<br>
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C+%2F+C%2B%2B;PYTHON;JAVASCRIPT;MERN;RUBY;LARAVEL;SQL+%2F+PL+SQL;CORE+JAVA;PHP;THREE.JS)](https://404dev.in)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=22CS053DHRUVI&label=VISITORS&countColor=%23263759&labelStyle=upper)
 
-<img align="center" width="400" src="mygif.gif">
+---
 
-## Most Used Languages ✎: 
+### 👩‍💻 About Me
 
+- 🙋‍♀️ I'm **Dhruvi Patel**, a passionate tech enthusiast diving deep into the world of Artificial Intelligence.
+- 🎓 Pursuing B.Tech in Computer Engineering @ CHARUSAT (2022–2026)
+- 🤖 Strong interest in **Machine Learning**, **Deep Learning**, **NLP**, and **Generative AI**
+- 🧠 Love building intelligent systems that solve real-world problems
+- 🌱 Currently learning advanced DSA and exploring modern NLP/RAG techniques
+- 💌 Reach me at: [dhruvik26804@gmail.com](mailto:dhruvik26804@gmail.com)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvi-patel-285876251)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22CS053DHRUVI&theme=react)](https://github.com/DarshPatel4/github-readme-stats)
+---
 
-<br>
+### 🛠️ Tech Skills
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=Python+%7C+C%2B%2B;Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing+%7C+NLP;Retrieval-Augmented+Generation+%7C+LangChain;PyTorch+%7C+TensorFlow+%7C+scikit-learn;Git+%7C+PostgreSQL+%7C+MySQL)](https://github.com/22CS053DHRUVI)
+
+---
+
+### 🚀 Projects
+
+- 🧠 **Mental Health Detection using RoBERTa**  
+  Built a classification model to detect anxiety, depression, PTSD symptoms using social media text (Reddit).  
+  `Tech: NLP, HuggingFace, RoBERTa, Python`
+
+- 📚 **RAG-based NCERT Q&A System**  
+  Implemented a Retrieval-Augmented Generation model for contextual question answering using LLMs.  
+  `Tech: Python, LangChain, FAISS, OpenAI`
+
+- 📊 **Text Summarization Project (Internship)**  
+  Created a grammar-aware summarization system using Gramformer & LanguageTool.  
+  `Tech: NLP, Transformers, Python`
+
+---
+
+### 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22CS053DHRUVI&layout=compact&theme=react)
+
+![Dhruvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22CS053DHRUVI&show_icons=true&theme=react)
+
+---
+
+### 💬 Quote
+
+> “Turning curiosity into code — and code into meaningful impact.” – *Dhruvi Patel*
+
+---
